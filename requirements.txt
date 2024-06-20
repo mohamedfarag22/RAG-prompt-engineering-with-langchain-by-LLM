@@ -1,0 +1,11 @@
+langchain
+langchain-chroma
+transformers
+sentencepiece
+accelerate
+bitsandbytes
+sentence-transformers
+unstructured
+wikipedia
+nltk
+chromadb
