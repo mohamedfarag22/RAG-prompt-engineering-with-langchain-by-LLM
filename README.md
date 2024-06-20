@@ -17,9 +17,13 @@ RAG-based AI system, a retrieval model is used to find relevant information from
 ```
 # Usage
 1-This project uses Retrieval-Augmented Generation (RAG) and prompt engineering with LangChain, powered by an LLM (model_id ="chavinlo/alpaca-native").
+
 2-Wikipedia documents are split into chunks with NLTK.
+
 3-The chunks are embedded and stored in a Chroma vector database.
+
 4-Retrieved documents are processed with a template prompt using LangChain's stuff chain.
+
 5-The processed documents generate coherent responses.
 
 # Conclusion
